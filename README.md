@@ -1,8 +1,8 @@
-# Movie-features-analysis-with-NLP
+# Movie-feature-analysis-with-NLP
 
 ## Background ##
 
-We all love watching movies! Most people have a preference for movies of a similar genre. Websites such as Netflix provide lists of movies based on genres, which makes it easier for users to select the movie that interests them based on the genre he/she is more inclined towards. Also users can find similar movies and TVs on Taste, which is a platform that personalizes recommendations based on users’ ratings and reviews. The algorithm behind is based on the users’ ratings.
+Most people have a preference for movies of a similar genre. Websites such as Netflix provide lists of movies based on genres, which makes it easier for users to select the movie that interests them based on the genre he/she is more inclined towards. Also users can find similar movies and TVs on Taste, which is a platform that personalizes recommendations based on users’ ratings and reviews. The algorithm behind is based on the users’ ratings.
 
 ## Problems to solve ##
 
@@ -30,9 +30,9 @@ Our project includes four parts:
  
  - Similarity Calculation: We used two bases to calculate similarity
         
-        - Key words: (Saved in analysis folder -- IMDB Movies similarity from key words.ipynb)
+   1). Key words: (Saved in analysis folder -- IMDB Movies similarity from key words.ipynb)
         
-        - Plot summaries: (Saved in analysis folder --  IMDB Movies similarity from plot summaries.ipynb)
+   2). Plot summaries: (Saved in analysis folder --  IMDB Movies similarity from plot summaries.ipynb)
 
 
 ## Evaluation Metrics ##
