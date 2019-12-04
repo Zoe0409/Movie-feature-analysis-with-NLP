@@ -1,4 +1,4 @@
-# Movie-feature-analysis-with-NLP
+# Movie-features-analysis-with-NLP
 
 ## Background ##
 
