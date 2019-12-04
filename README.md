@@ -18,7 +18,7 @@ We crawled a list of movies in recent 10 years on IMDB from 2009-01-01 to 2019-1
 
 Source code can be found on Github: https://github.com/Zoe0409/Movie-plot-analysis-with-NLP/blob/master/dataset/Collect%20data%20from%20IMDB.ipynb.
 
-## Research Design and Expected Output##
+## Research Design and Expected Output ##
 
 Our project includes four parts:
 
