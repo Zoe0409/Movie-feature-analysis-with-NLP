@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FZoe0409%2FMovie-feature-analysis-with-NLP)
+
 # Movie-feature-analysis-with-NLP
 
 ## Background ##
